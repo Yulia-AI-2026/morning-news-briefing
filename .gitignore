@@ -1,5 +1,8 @@
 # 敏感配置文件 - 勿提交
 _email_config.json
+.env
+*.key
+credentials.json
 
 # 临时文件
 /tmp/
