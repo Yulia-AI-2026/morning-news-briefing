@@ -1,0 +1,9 @@
+# 敏感配置文件 - 勿提交
+_email_config.json
+
+# 临时文件
+/tmp/
+
+# Python
+__pycache__/
+*.pyc
